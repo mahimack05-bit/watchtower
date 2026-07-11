@@ -2,6 +2,8 @@
 
 I got tired of re-checking the same product pages over and over hoping a price would drop, so I built the tool I actually wanted: add something you're watching, set a price you'd actually buy it at, and let the dashboard tell you when it's worth going back.
 
+https://mahimack05-bit.github.io/watchtower/
+
 ![screenshot](screenshot.png)
 
 ## Where this is at right now
